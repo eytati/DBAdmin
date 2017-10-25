@@ -16,6 +16,7 @@ class AdministrationRoles:
 
     def DeleteRole(self):
         return
+
 class AdministrationGroups:
 
     connection: None
