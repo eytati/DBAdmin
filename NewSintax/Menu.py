@@ -26,9 +26,11 @@ class Started:
 
 
     def GeneralMenu(self):
-        argument = "Escogé una accion ingresando el número \n1.Conectarse a otra base de datos \n2.Usuarios \n3.DDL\n4.DML\n5.Cambios en la base de datos\nSalir"
+        connection = Connection.DBConnection()
+        argument = "Escogé una accion ingresando el número \n1.Conectarse a otra base de datos \n2.Usuarios \n3.DDL\n4.DML\n5.Cambios en la base de datos\n6.Salir"
         choose = self.InputInformation(argument)
         if(choose=='1'):
+            connection.closeConnection()
             self.DbConnection()
         elif (choose == '2'):
             return
@@ -39,6 +41,7 @@ class Started:
         elif (choose == '5'):
             return self.DbChanges()
         elif (choose == '6'):
+            connection.closeConnection()
             print("Gracias")
         else:
             return self.GeneralMenu()

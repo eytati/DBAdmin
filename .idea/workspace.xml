@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4ef6ab-bd80-4fbb-b44c-8de8dafa4d31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataBase/DDLFuntions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataBase/DMLFunctions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewSintax/Menu.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Admin.iml" afterPath="$PROJECT_DIR$/.idea/Admin.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/AdministrationDB.py" afterPath="$PROJECT_DIR$/DataBase/AdministrationDB.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/AdministrationPeople.py" afterPath="$PROJECT_DIR$/DataBase/AdministrationPeople.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/Connection.py" afterPath="$PROJECT_DIR$/DataBase/Connection.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NewSintax/Menu.py" afterPath="$PROJECT_DIR$/NewSintax/Menu.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,91 +14,37 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DBAdmin$AdministrationDB.coverage" NAME="AdministrationDB Coverage Results" MODIFIED="1508275386616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataBase" />
-    <SUITE FILE_PATH="coverage/DBAdmin$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1508357817999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NewSintax" />
+    <SUITE FILE_PATH="coverage/DBAdmin$Menu.coverage" NAME="Menu Coverage Results" MODIFIED="1508900029408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NewSintax" />
     <SUITE FILE_PATH="coverage/Admin$Connection.coverage" NAME="Connection Coverage Results" MODIFIED="1507613181769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DBAdmin$Selection.coverage" NAME="Selection Coverage Results" MODIFIED="1508774509805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NewSintax" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.47046188">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="Connection.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/DataBase/Connection.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="592">
-                  <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Menu.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/NewSintax/Menu.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="382">
-                  <caret line="212" column="60" lean-forward="false" selection-start-line="212" selection-start-column="60" selection-end-line="212" selection-end-column="60" />
-                  <folding>
-                    <element signature="e#0#76#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="AdministrationPeople.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/DataBase/AdministrationPeople.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="DMLFunctions.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/DataBase/DMLFunctions.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="756">
-                  <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-                  <folding>
-                    <marker date="1508887065979" expanded="true" signature="58:1621" ph="..." />
-                    <marker date="1508887065979" expanded="true" signature="342:458" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="AdministrationDB.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/DataBase/AdministrationDB.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="613">
-                  <caret line="77" column="32" lean-forward="false" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
-                  <folding>
-                    <marker date="1508891581615" expanded="true" signature="1040:1249" ph="SELECT table... tables" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="DDLFuntions.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/DataBase/DDLFuntions.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="336">
-                  <caret line="16" column="151" lean-forward="false" selection-start-line="16" selection-start-column="151" selection-end-line="16" selection-end-column="151" />
-                  <folding>
-                    <marker date="1508853198121" expanded="true" signature="494:604" ph="select colum... COLUMNS" />
-                    <marker date="1508853198121" expanded="true" signature="494:621" ph="select colum... COLUMNS" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="AdministrationDB.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataBase/AdministrationDB.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="31" />
+              <folding>
+                <marker date="1508891581615" expanded="true" signature="1040:1249" ph="SELECT table... tables" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewSintax/Menu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1358">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -178,6 +117,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,12 +140,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -234,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Selection">
+  <component name="RunManager" selected="Python.Menu">
     <configuration name="AdministrationDB" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,8 +254,8 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.Selection" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Menu" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Menu" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Selection" />
         <item index="2" class="java.lang.String" itemvalue="Python.AdministrationDB" />
         <item index="3" class="java.lang.String" itemvalue="Python.Connection" />
       </list>
@@ -340,17 +279,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14017186" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14607948" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37585422" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22665147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33599088" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33599088" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997722" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -398,10 +336,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1508887065979" expanded="true" signature="58:1621" ph="..." />
-            <marker date="1508887065979" expanded="true" signature="342:458" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -467,10 +402,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
-          <folding>
-            <marker date="1508887065979" expanded="true" signature="58:1621" ph="..." />
-            <marker date="1508887065979" expanded="true" signature="342:458" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -682,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="129" column="0" lean-forward="false" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,14 +631,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataBase/Connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
+        <state relative-caret-position="651">
           <caret line="31" column="44" lean-forward="false" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataBase/DMLFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -723,21 +661,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/DMLFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
-          <folding>
-            <marker date="1508887065979" expanded="true" signature="58:1621" ph="..." />
-            <marker date="1508887065979" expanded="true" signature="342:458" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataBase/AdministrationDB.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="77" column="32" lean-forward="false" selection-start-line="77" selection-start-column="32" selection-end-line="77" selection-end-column="32" />
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="31" />
           <folding>
             <marker date="1508891581615" expanded="true" signature="1040:1249" ph="SELECT table... tables" />
           </folding>
@@ -746,8 +673,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/NewSintax/Menu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="212" column="60" lean-forward="false" selection-start-line="212" selection-start-column="60" selection-end-line="212" selection-end-column="60" />
+        <state relative-caret-position="-1358">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding>
             <element signature="e#0#76#0" expanded="true" />
           </folding>
